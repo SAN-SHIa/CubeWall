@@ -47,4 +47,5 @@
 
 ### 运行效果：
 
-![mfq](https://github.com/SAN-SHIa/SAN-SHIa.github.io/blob/master/2024/04/29/Python%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0%E9%AD%94%E6%96%B9%E5%A2%99%E8%84%9A%E6%9C%AC%E9%87%8F%E5%8C%96/mfq.jpg))
+![mfq](https://github.com/SAN-SHIa/SAN-SHIa.github.io/blob/master/2024/04/29/Python%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0%E9%AD%94%E6%96%B9%E5%A2%99%E8%84%9A%E6%9C%AC%E9%87%8F%E5%8C%96/mfq.jpg)
+***
